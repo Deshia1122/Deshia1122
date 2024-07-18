@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on Github
 - 📫 To reach me using email address "ahamddeshia20@gmail.com"
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love baking and experimenting with new recipes.
+- ⚡ Fun fact:
+- I enjoy creating interactive web applications.
+- I love baking and experimenting with new recipes.
+
 
 <!---
 Deshia1122/Deshia1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
